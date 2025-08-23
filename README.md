@@ -30,3 +30,4 @@ A simple and responsive **QR Code Generator** built with **HTML, CSS, and JavaSc
 
 ## Live Demo 
 [Try Live Demo](https://github.com/vivekbhattacharya01-gif/CodeWave/blob/main/CodeWave%20GIF.gif)
+https://github.com/vivekbhattacharya01-gif/CodeWave/blob/main/CodeWave%20GIF.gif
