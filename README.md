@@ -17,8 +17,10 @@ A simple and responsive **QR Code Generator** built with **HTML, CSS, and JavaSc
 - **JavaScript (ES6)** - Functionality  
 - **API** - [goqr.me](https://goqr.me/api/) 
 
-## 📸 Demo
-<video src="./images/lumigate-demo.mp4" width="500" autoplay loop muted></video>(https://github.com/vivekbhattacharya01-gif/CodeWave/blob/main/CodeWave%20GIF.gif?raw=true)
+## 🎥 Live Demo
+
+![CodeWave Animation](https://raw.githubusercontent.com/vivekbhattacharya01-gif/LumiGate/main/LumiGate.gif)
+
 
 ## 📂 Project Setup
 1. Clone this repository:
