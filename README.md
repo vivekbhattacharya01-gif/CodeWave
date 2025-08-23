@@ -19,7 +19,7 @@ A simple and responsive **QR Code Generator** built with **HTML, CSS, and JavaSc
 
 ## 🎥 Live Demo
 
-![CodeWave Animation](https://raw.githubusercontent.com/vivekbhattacharya01-gif/LumiGate/main/LumiGate.gif)
+![CodeWave Animation](https://github.com/vivekbhattacharya01-gif/CodeWave/blob/main/CodeWave%20GIF.gif?raw=true)
 
 
 ## 📂 Project Setup
