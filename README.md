@@ -19,8 +19,7 @@ A simple and responsive **QR Code Generator** built with **HTML, CSS, and JavaSc
 
 ## 📸 Demo
 <img width="783" height="759" alt="image" src="https://github.com/user-attachments/assets/f27b3d1c-cbf9-4c72-a2b3-4861e51c32a3" />
-
-![Demo]([https://link-to-your-gif.com/CodeWave.gif](https://github.com/vivekbhattacharya01-gif/CodeWave/blob/main/CodeWave%20GIF.gif))
+[<video src="./images/lumigate-demo.mp4" width="500" autoplay loop muted></video>](https://github.com/vivekbhattacharya01-gif/CodeWave/blob/main/CodeWave%20GIF.gif?raw=true)
 
 ## 📂 Project Setup
 1. Clone this repository:
