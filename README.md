@@ -26,3 +26,7 @@ A simple and responsive **QR Code Generator** built with **HTML, CSS, and JavaSc
 1. Clone this repository:
    ```bash
    git clone https://github.com/vivekbhattacharya01-gif/CodeWave
+
+
+## Live Demo 
+
